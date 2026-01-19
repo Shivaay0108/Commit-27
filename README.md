@@ -1,4 +1,5 @@
 # Commit-27
-hhu
-gyy
-gh
+base Guild Role
+...
+base Guild
+...
